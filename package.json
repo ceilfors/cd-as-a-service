@@ -1,0 +1,19 @@
+{
+  "name": "cd-as-a-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ceilfors/cd-as-a-service.git"
+  },
+  "author": "Will and Wisen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceilfors/cd-as-a-service/issues"
+  },
+  "homepage": "https://github.com/ceilfors/cd-as-a-service"
+}

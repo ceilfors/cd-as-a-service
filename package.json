@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ceilfors/cd-as-a-service",
   "dependencies": {
+    "mocha": "^2.0.1",
     "vm": "0.0.1"
   }
 }
